@@ -123,4 +123,5 @@ Execute the program
 </table>
 ```
 # OUPUT
-![Alt text](image.png)
+![image](https://github.com/marcoyoi/timetable/assets/128804366/51e81b8d-1292-4348-a5c2-bef1f47dc4ff)
+
