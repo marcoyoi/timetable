@@ -123,4 +123,4 @@ Execute the program
 </table>
 ```
 # OUPUT
-![Alt text](./timetable%20remake.png)
+![Alt text](<timetable remake.png>)
