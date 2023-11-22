@@ -123,7 +123,8 @@ Execute the program
 </table>
 ```
 # OUPUT
+![image](https://github.com/marcoyoi/timetable/assets/128804366/7d80c780-6b9e-42cd-a2a3-d5a50a32abdd)
 
-![Alt text](<timetable remake.png>)
-
+# RESULT
+Thus it has been executed successfully
 
