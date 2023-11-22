@@ -19,7 +19,7 @@ Execute the program
 <table>
     <table border="4" width="600" cellspacing='4' cellpaddling='4'>
 
-<h2>  SLOT TIMETABLE-C.SANJAY(23013498)</h2>
+<h2>  SLOT TIMETABLE-T.Meyyappan(23000788)</h2>
 <tr>
     <th align="center" bgcolor="yellow">Day/Time</th>
     <th align="center" bgcolor="red">Monday</th>
