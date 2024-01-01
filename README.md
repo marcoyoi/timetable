@@ -122,7 +122,7 @@ Execute the program
 </tr>
 </table>
 ```
-# OUPUT
+# OUTPUT
 ![image](https://github.com/marcoyoi/timetable/assets/128804366/7d80c780-6b9e-42cd-a2a3-d5a50a32abdd)
 
 # RESULT
